@@ -1,4 +1,4 @@
-# react-rnd-modal
+# react-resizeable-modal
 
 
 ## Installation
